@@ -10,7 +10,7 @@ body {
     margin: 25px;
     background: linear-gradient(45deg, #00000000, #FECB2E, #6f2581, #53D769, #FD9432, #FC3158);
     background-size: 400% 400%;
-    animation: gradientAnimation 8s ease infinite;
+    animation: gradientAnimation 10s ease infinite;
     justify-content: center;
     text-align: center;
     display: flex;
@@ -100,7 +100,7 @@ body {
 
 .button:active,
 .button:focus {
-    filter: brightness(140%);
+    filter: brightness(150%);
 }
 
 .bottom {

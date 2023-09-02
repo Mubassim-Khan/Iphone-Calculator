@@ -8,11 +8,32 @@
 body {
     font-family: "Helvetica Neve", sans-serif;
     margin: 25px;
+    background: linear-gradient(45deg, #00000000, #FECB2E, #6f2581, #53D769, #FD9432, #FC3158);
+    background-size: 400% 400%;
+    animation: gradientAnimation 8s ease infinite;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+}
+
+@keyframes gradientAnimation {
+    0% {
+        background-position: 0% 50%;
+    }
+
+    50% {
+        background-position: 100% 50%;
+    }
+
+    100% {
+        background-position: 0% 50%;
+    }
 }
 
 .calculator {
     background-color: black;
-    border-radius: 50px;
+    outline: none;
+    border-radius: 65px;
     padding: 20px;
     color: white;
     height: 1220px;
@@ -34,6 +55,10 @@ body {
     height: 160px;
     text-align: right;
     margin-right: 15px;
+}
+
+.clock{
+    font-size: 20px;
 }
 
 .buttons-container {
@@ -87,4 +112,34 @@ body {
     bottom: 10px;
     left: 50%;
     transform: translateX(-50%);
+}
+
+.heading {
+    position: relative;
+    z-index: 2;
+    width: 65%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 1rem;
+    margin-bottom: 3rem;
+    font-size: 35px;
+}
+
+.heading h1 {
+    font-weight: 700;
+    font-size: 5.2rem;
+    line-height: 1.1;
+    margin: 0 0 2rem;
+    color: #cecece;
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
 }

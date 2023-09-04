@@ -1,10 +1,12 @@
 # iPhone Calculator
 
-This repository contains the code for building a iPhone inspired Calulator clone using HTML, CSS & Vanilla JavaScript. The project aims to recreate the visual design and layout of Calculator, providing similar interfaces for display, buttons & other details on UI including current Time & much more.
+This repository contains the code for building a iPhone inspired Calculator clone using HTML, CSS & Vanilla JavaScript. The project aims to recreate the visual design and layout of Calculator, providing similar interfaces for display, buttons & other details on UI including current Time & much more.
 
 ## Preview
 
-![image](https://github.com/Mubassim-Khan/iPhone-Calculator/blob/main/Preview.jpg)
+<div align="center">
+<img src="https://github.com/Mubassim-Khan/Iphone-Calculator/blob/main/Assets/Preview.PNG" alt="image" align="center">
+</div>
 
 ## Features
 

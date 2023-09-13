@@ -3,6 +3,7 @@
 This repository contains the code for building a iPhone inspired Calculator clone using HTML, CSS & Vanilla JavaScript. The project aims to recreate the visual design and layout of Calculator, providing similar interfaces for display, buttons & other details on UI including current Time & much more.
 
 ## Preview
+[![Netlify Status](https://api.netlify.com/api/v1/badges/dcef64f1-30c4-4c14-b7e3-a7de3065c389/deploy-status)](https://app.netlify.com/sites/m-iphone-calculator/deploys)
 
 <div align="center">
 <img src="https://github.com/Mubassim-Khan/Iphone-Calculator/blob/main/Assets/Preview.PNG" alt="image" align="center">

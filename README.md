@@ -45,7 +45,7 @@ Contributions to this project are welcome. If you find any issues or have sugges
 
 If you have any questions, suggestions, or feedback, you can reach out to the project maintainer:
 
-- Name : [Mubassim Ahmed Khan](https://linkedin.com/in/Mubassim-Khan)
+- LinkedIn: [Mubassim Ahmed Khan](https://www.linkedin.com/in/mubassim-ahmed-khan/)
 - Email: [mubassimkhan@gmail.com](mailto:mubassimkhan@gmail.com)
 
 ---
